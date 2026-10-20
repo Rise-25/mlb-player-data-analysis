@@ -27,17 +27,18 @@ Python, pandas, NumPy, SciPy, statsmodels, Matplotlib and Bokeh.
 - Multiple linear regression using OLS
 - Residual diagnostics
 
-## Selected visualisations
 
-### Player race and playing position
+## Selected Visualisations
+
+### Player Race and Playing Position
 
 ![Player race and playing position](images/race_vs_position.png)
 
-### Career home runs and walks
+### Career Home Runs and Walks
 
 ![Career home runs and walks](images/home_runs_vs_walks.png)
 
-### Hits per game and salary
+### Hits per Game and Salary
 
 ![Hits per game and salary](images/hits_per_game_vs_salary.png)
 
