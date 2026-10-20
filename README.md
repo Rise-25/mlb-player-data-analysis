@@ -70,8 +70,6 @@ Python, pandas, NumPy, SciPy, statsmodels, Matplotlib and Bokeh.
 3. Open the notebook in Jupyter Notebook, JupyterLab or a compatible environment.
 4. Run the cells from top to bottom. The selected Matplotlib charts are saved to the `images/` directory.
 
-**Dataset note:** `mlb.csv` is included in this repository package so the analysis can be reproduced. Before publishing the repository publicly, make sure the dataset’s terms permit redistribution, particularly because it was supplied as part of a university module.
-
 ## Project context
 
 Completed as part of the Software Analytics module of my MSc in Business Analytics at Aston University. Project mark: **78.37%**.
